@@ -1,5 +1,4 @@
 //Probando jQuery!
-
-$(document).ready(function(){
-   console.log($('h1').text()   );
+$(document).ready(function () {
+  console.log($('h1').text());
 })

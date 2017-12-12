@@ -117,13 +117,12 @@ h6 {
   .hero {
     height: 440px;
   }
- }
+}
 
 @media (min-width: 992px) {
   .hero {
     height: 660px;  
   }
-
   .galery {
     height: 460px; 
   }
